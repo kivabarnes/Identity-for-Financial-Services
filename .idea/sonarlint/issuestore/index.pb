@@ -9,3 +9,7 @@ T
 $contracts/credential-management.clar,e/b/ebff0945ffbdbc5d3272a50f39a5f15bdd2abe6a
 S
 #tests/credential-management.test.ts,1/6/169e8ebd2056bf2b79545d1706ac0315d5d4caed
+T
+$contracts/identity-verification.clar,6/3/63627d2e05688d155fd361be7f5c89242e6c4fdd
+S
+#tests/identity-verification.test.ts,1/f/1f946c6e509440197e87e742a1435ac8a9a2bff1
